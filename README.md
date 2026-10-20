@@ -6,7 +6,6 @@
 
 <a href="https://www.linkedin.com/in/daronanugrah/"><img src="https://img.shields.io/badge/LinkedIn-Daron%20Anugrah-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:daronanugrah@gmail.com"><img src="https://img.shields.io/badge/Email-daronanugrah%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://github.com/USERNAME-GITHUB-KAMU"><img src="https://img.shields.io/badge/GitHub-USERNAME--GITHUB--KAMU-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 
 <br>
 
