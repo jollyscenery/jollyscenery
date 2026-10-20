@@ -12,8 +12,6 @@
 <a href="#profile-summary">Profile</a> &nbsp;|&nbsp;
 <a href="#education">Education</a> &nbsp;|&nbsp;
 <a href="#skills">Skills</a> &nbsp;|&nbsp;
-<a href="#achievements">Achievements</a> &nbsp;|&nbsp;
-<a href="#projects">Projects</a> &nbsp;|&nbsp;
 <a href="#experience">Experience</a>
 
 </div>
@@ -62,54 +60,6 @@ Analyst internship.
 
 ---
 
-## Achievements
-
-**Onboarded 200+ New Members, CSC Expo 2026**
-Cyber Security Community | Head of Event Division
-
-Directed end-to-end registration operations, including booth management and data verification, and coordinated welcome activities including a dedicated community group.
-
-**Secured 6 Media Partners (Target: 5), CSC Awareness Day 2026**
-Cyber Security Community | Head of Public Relation Division
-
-Independently handled outreach and drafted the partnership proposal, exceeding the target of 5 media partners.
-
-<div align="right"><a href="#karta-jethro-daron-anugrah">↑ Back to top</a></div>
-
----
-
-## Projects
-
-### Threat Modelling (STRIDE)
-
-*University project*
-
-<!-- Isi: nama aplikasi/sistem yang dianalisis, jumlah anggota tim, periode, dan kontribusi kamu -->
-
-- Applied the STRIDE framework to identify and analyze security threats and risks.
-
-**Stack:** STRIDE, Risk Analysis
-
-### Mobile Application Analysis
-
-*University project*
-
-<!-- Isi: nama aplikasi yang dianalisis, jumlah anggota tim, periode, dan temuan utama -->
-
-- Analyzed a mobile application using MobSF and JADX.
-
-**Stack:** MobSF, JADX
-
-### Capture The Flag (CTF)
-
-Hands-on practice in web application security and network enumeration using Kali Linux, Burp Suite, Wireshark, and Nmap.
-
-<!-- Opsional: tambahkan link profil platform CTF kamu -->
-
-<div align="right"><a href="#karta-jethro-daron-anugrah">↑ Back to top</a></div>
-
----
-
 ## Experience
 
 | Role | Organization | Period |
@@ -123,7 +73,7 @@ Hands-on practice in web application security and network enumeration using Kali
 
 <br>
 
-- Lead a team of 6 members in running a fundraising sales initiative, delegating tasks across vendor sourcing, ordering, sales forms, and timelines while monitoring team progress.
+- Lead a team of **6 members** in running a fundraising sales initiative, delegating tasks across vendor sourcing, ordering, sales forms, and timelines while monitoring team progress.
 - Develop the sales plan consolidating vendor sources, purchase prices, and selling prices.
 
 </details>
@@ -134,7 +84,7 @@ Hands-on practice in web application security and network enumeration using Kali
 <br>
 
 - Led the Public Relation Division as its sole member, independently managing media partnership efforts.
-- Conducted outreach and drafted the partnership proposal, securing 6 media partners and exceeding the target of 5.
+- Conducted outreach and drafted the partnership proposal, securing **6 media partners** and exceeding the target of 5.
 
 </details>
 
@@ -143,7 +93,7 @@ Hands-on practice in web application security and network enumeration using Kali
 
 <br>
 
-- Led the Event Division for the Cyber Security Community Expo, driving the onboarding of 200+ new members.
+- Led the Event Division for the Cyber Security Community Expo, driving the onboarding of **200+ new members**.
 - Directed end-to-end registration operations, including booth management and data verification, and coordinated welcome activities including a dedicated community group.
 
 </details>
