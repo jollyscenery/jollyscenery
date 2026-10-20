@@ -64,11 +64,28 @@ Analyst internship.
 
 | Role | Organization | Period |
 | :--- | :--- | :--- |
+| Media and Publication Division Member, Welcoming Party CSC 2026 | Cyber Security Community | Aug 2026 – Sep 2026 |
 | Head of Entrepreneurship Division, CSC National Cyber Week 2026 | Cyber Security Community | Aug 2026 – Present |
 | Head of Public Relation Division, CSC Awareness Day 2026 | Cyber Security Community | Aug 2026 – Oct 2026 |
 | Head of Event Division, CSC Expo 2026 | Cyber Security Community | Jul 2026 – Aug 2026 |
+| Sponsorship Division Member, TECHFEST 2026 | HIMTI BINUS University | Apr 2026 – Jul 2026 |
+| Promotion Division Member, TECHFEST 2025 | HIMTI BINUS University | Apr 2025 – Jul 2025 |
+| Member of PST | HIMTI BINUS University | Apr 2025 – May 2025 |
+| Activist of Web Development | HIMTI BINUS University | Feb 2025 – Present |
+| Member | HIMTI BINUS University | Sep 2024 – Jan 2025 |
 
 <details open>
+<summary><b>Media and Publication Division Member, Welcoming Party CSC 2026</b> &nbsp;·&nbsp; Cyber Security Community &nbsp;·&nbsp; Aug 2026 – Sep 2026</summary>
+
+<br>
+
+- Contributed to the Media and Publication Division by managing the on-screen visual elements for the Welcoming Party.
+- Designed the primary event presentation deck using Canva, ensuring all graphics aligned with the community's branding.
+- Delivered visually engaging slides displayed throughout the event to support the program flow and elevate the attendee experience.
+
+</details>
+
+<details>
 <summary><b>Head of Entrepreneurship Division, CSC National Cyber Week 2026</b> &nbsp;·&nbsp; Cyber Security Community &nbsp;·&nbsp; Aug 2026 – Present</summary>
 
 <br>
@@ -95,6 +112,43 @@ Analyst internship.
 
 - Led the Event Division for the Cyber Security Community Expo, driving the onboarding of **200+ new members**.
 - Directed end-to-end registration operations, including booth management and data verification, and coordinated welcome activities including a dedicated community group.
+
+</details>
+
+<details>
+<summary><b>Sponsorship Division Member, TECHFEST 2026</b> &nbsp;·&nbsp; HIMTI BINUS University &nbsp;·&nbsp; Apr 2026 – Jul 2026</summary>
+
+<br>
+
+- Drove funding efforts as a member of the Sponsorship Team by initiating contact with **30+ prospective brands**.
+- Converted leads into valuable cash and in-kind partnerships through effective pitching and value alignment.
+- Managed the contracting phase by drafting specific MoUs and worked alongside internal teams to ensure all commitments were delivered.
+
+**Skills:** Partnership Development, Communication
+
+</details>
+
+<details>
+<summary><b>Promotion Division Member, TECHFEST 2025</b> &nbsp;·&nbsp; HIMTI BINUS University &nbsp;·&nbsp; Apr 2025 – Jul 2025</summary>
+
+<br>
+
+- Spearheaded media outreach initiatives for TECHFEST 2025 to maximize the event's visibility.
+- Pitched to **20+ prospective partners** and secured multiple key media collaborations that amplified promotional coverage.
+- Aligned strategies with the internal team and managed end-to-end partner communications to ensure seamless and timely campaign execution across all channels.
+
+**Skills:** Media Relations, Partnership Development
+
+</details>
+
+<details>
+<summary><b>Member of PST</b> &nbsp;·&nbsp; HIMTI BINUS University &nbsp;·&nbsp; Apr 2025 – May 2025</summary>
+
+<br>
+
+- Participated as a member of PST BINUS, a student community focused on developing public speaking and communication skills through structured training and practice.
+
+**Skills:** Public Speaking, Communication
 
 </details>
 
