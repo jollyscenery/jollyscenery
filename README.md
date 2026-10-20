@@ -69,10 +69,10 @@ Analyst internship.
 | Head of Public Relation Division, CSC Awareness Day 2026 | Cyber Security Community | Aug 2026 – Oct 2026 |
 | Head of Event Division, CSC Expo 2026 | Cyber Security Community | Jul 2026 – Aug 2026 |
 | Sponsorship Division Member, TECHFEST 2026 | HIMTI BINUS University | Apr 2026 – Jul 2026 |
+| Activist of Human Resource | Musiman | Feb 2026 – Present |
 | Promotion Division Member, TECHFEST 2025 | HIMTI BINUS University | Apr 2025 – Jul 2025 |
 | Member of PST | HIMTI BINUS University | Apr 2025 – May 2025 |
 | Activist of Web Development | HIMTI BINUS University | Feb 2025 – Present |
-| Member | HIMTI BINUS University | Sep 2024 – Jan 2025 |
 
 <details open>
 <summary><b>Media and Publication Division Member, Welcoming Party CSC 2026</b> &nbsp;·&nbsp; Cyber Security Community &nbsp;·&nbsp; Aug 2026 – Sep 2026</summary>
